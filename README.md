@@ -1,5 +1,5 @@
 # First Django Project
-A beginner Django project focused on practicing project setup, app creation, routing, and returning HTTP responses.
+A Django project focused on practicing project setup, app creation, routing, and returning HTTP responses.
 ---
 ## Objectives
 - Practice setting up a new Django project
